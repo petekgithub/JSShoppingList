@@ -1,0 +1,33 @@
+body {
+    font-family: 'Reggae One', cursive;
+    background-image: url('1.jpg');
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+.container {
+    text-align: center;
+    padding-top: 50px;
+  
+}
+
+h1 {
+    color: palevioletred;
+    text-size: 30px;
+}
+
+button {
+    color: black;
+    background-color: #EB54FF;
+    border-radius: 5px;
+    
+}
+
+.productList {
+    text-align: center;
+    font-size: 15px;
+    letter-spacing: 2px;
+    
+}
